@@ -9,7 +9,8 @@
 
 
 
-<img align="right" width="200" alt="GIF" src="https://github.com/user-attachments/assets/f41f5f63-c4a8-4726-919b-4132057fedb2" width="200">
+
+<img align="right" width="200" alt="GIF" src="https://github.com/user-attachments/assets/bd917d2c-6eb3-4e47-944d-7d4982aa377d" width="200">
 
 - ⚙️ I’m currently working on ***Human Protein Atlas Image Classification***
 - 🌱 I’m currently learning link to [***Deep learning specialization***](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
