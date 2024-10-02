@@ -5,6 +5,7 @@
 <h1 align="center">Hi there👋 </h1>
 
 <img align="right" width="200" alt="GIF" src="https://github.com/user-attachments/assets/bd917d2c-6eb3-4e47-944d-7d4982aa377d" width="150">
+<br/>
 
 - ⚙️ I’m currently working on ***Human Protein Atlas Image Classification***
 - 🌱 I’m currently learning link to [***Deep learning specialization***](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
