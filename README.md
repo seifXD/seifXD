@@ -17,6 +17,10 @@
 - 💬 Ask me about builing ML models
 - 📬 How to reach me: link to ***seifali432@gmail.com***
 
+  <br/>
+
+ <h3 align="center"> Connect with me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem81d3cyZWx2bGV0MHZwc2d4eXJrNGM4OWkwOGk0Y3ZtM3d4bDlzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dkJA5cYMq2XLNkaO9s/giphy.webp" width="25" height="25" style="margin-right: 10px;">
+
 
 
 
