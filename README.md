@@ -18,7 +18,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem81d3cyZWx2bGV0MHZwc2d4eXJrNGM4OWkwOGk0Y3ZtM3d4bDlzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dkJA5cYMq2XLNkaO9s/giphy.webp" width="25" /h3>
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/seif-aly-860007286">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/seif-aly-860007286">
         <img src="https://github.com/user-attachments/assets/dc54b204-a65d-4067-b112-d556f3be0a61"width= "60">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://huggingface.co/seifali">
