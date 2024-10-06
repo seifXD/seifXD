@@ -9,7 +9,7 @@
 
 - ⚙️ I’m currently working on ***Human Protein Atlas Image Classification***
 - 🌱 I’m currently learning link to [***Deep learning specialization***](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
-- 💬 Ask me about builing ML models
+- 💬 Ask me about builing ML models and Deep Learning
 - 📬 How to reach me: link to ***seifali432@gmail.com***
 
   <br/>
