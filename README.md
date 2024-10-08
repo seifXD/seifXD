@@ -1,6 +1,6 @@
 
-![graphic-conceptualizing-streamlining-optimization-business-processes-through-technologica_924727-43999](https://github.com/user-attachments/assets/875f4a7f-e81b-4d2a-b8b7-96bf0ed8fa81)
 
+![trimmed](https://github.com/user-attachments/assets/307cf4f9-b97a-4914-bb81-3d9ca3561280)
 
 <h1 align="center">Hi there👋 </h1>
 
