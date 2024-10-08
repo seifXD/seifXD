@@ -1,6 +1,5 @@
+![8c4e8dd7-9246-421d-a92c-9fb9cfb928ee](https://github.com/user-attachments/assets/44b5b2a3-6401-4e0b-ba53-66f59d04d87b)
 
-
-![trimmed](https://github.com/user-attachments/assets/307cf4f9-b97a-4914-bb81-3d9ca3561280)
 
 <h1 align="center">Hi there👋 </h1>
 
