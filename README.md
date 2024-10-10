@@ -38,7 +38,7 @@
      
 
 
-<h2 align="center"> Languages and Tool
+<h2 align="center"> Languages and Tools
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZhbHQ0NnNydGlqM2s2Y2RxY3F1NDNrYTV3YWU2Nm9qcTlnMTZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.webp" width="25"> </h2>
 
 
