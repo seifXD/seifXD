@@ -49,6 +49,7 @@
 <h2 align="center"> Github Status<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4MDliYWxzMGJzbW5uajVmcHFob2xpajQ1YnV2dDE4eTd6YWU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMR2YEaUQetgZCMbIu/giphy.webp" width="30"> </h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=seifXD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seifXD&theme=shadow_blue&hide_border=false)<br/>
 
 
