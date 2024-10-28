@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVnZ3RieDlodnZiaGs2cWc0bDB4OGk4bm13Zml6eXUxZDliZWswMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OiM3v83WSCqQUCPL84/giphy.webp" width="40"> </h1> 
 
-<img align="right" width="200" alt="GIF" src="https://github.com/user-attachments/assets/bd917d2c-6eb3-4e47-944d-7d4982aa377d" width="150">
+<img align="right" width="300" alt="GIF" src="https://github.com/user-attachments/assets/a37444c7-b262-41c4-8724-0d804bb23ba0" width="150">
 <br/>
 
 - ⚙️ I’m currently working on:
