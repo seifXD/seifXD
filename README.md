@@ -15,7 +15,7 @@
   - ***Human Protein Atlas Image Classification***
   -  ***LLM Classification Finetuning***
 - 🌱 I’m currently learning [***Deep learning specialization***](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
-- 💬 Ask me about builing ML models and Deep Learning
+- 💬 Ask me about builing ***ML models and Deep Learning***
 - 📬 How to reach me: ***seifali432@gmail.com***
 
   <br/>
