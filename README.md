@@ -18,7 +18,7 @@
   - [***Deep learning specialization***](https://www.coursera.org/specializations/deep-learning?myLearningTab=IN_PROGRESS)
   - RAG (Retrieval-augmented generation)
 - 💬 Ask me about builing ***ML models and Deep Learning***
-- 📬 How to reach me: ***seifali432@gmail.com***
+- 📬 How to reach me: ***seifali432@gmail.com*** 
 
   <br/>
 
