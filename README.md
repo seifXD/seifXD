@@ -58,7 +58,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seifXD&theme=shadow_blue&hide_border=false" width="430">
 
  
- ![](https://visitcount.itsvg.in/api?id=seifXD&icon=0&color=12)   
+
 
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=seifXD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
@@ -68,7 +68,7 @@
 
 
 
- 
+ ![](https://visitcount.itsvg.in/api?id=seifXD&icon=0&color=12)  
                                profile count ^^^^    
       
 
