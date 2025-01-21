@@ -56,7 +56,7 @@
 <h2 align="center"> Github Status<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ4MDliYWxzMGJzbW5uajVmcHFob2xpajQ1YnV2dDE4eTd6YWU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMR2YEaUQetgZCMbIu/giphy.webp" width="30"> </h2>
  <img src="https://github-readme-stats.vercel.app/api?username=seifXD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" width="390">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seifXD&theme=shadow_blue&hide_border=false" width="430">
- 
+ ![}(https://visitcount.itsvg.in/api?id=seifXD&icon=0&color=12)   
 
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=seifXD&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
@@ -66,7 +66,7 @@
 
 
 
- ![](https://visitcount.itsvg.in/api?id=seifXD&icon=0&color=12)   
+ 
                                profile count ^^^^    
       
 
